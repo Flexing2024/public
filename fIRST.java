@@ -1,0 +1,43 @@
+public class First  
+public class second
+public static void main (string[]args)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
